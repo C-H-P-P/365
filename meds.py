@@ -1,3 +1,4 @@
+
 meds = [
     {"name": "Амоксицилін", "qty": 20, "category": "antibiotic", "temp": 22.0},
     {"name": "Вітамін C", "qty": 50, "category": "vitamin", "temp": 4.5},
@@ -35,3 +36,5 @@ for med in meds:
             cat_status = "Невідома категорія"
 
     print(f"{name}: {cat_status}, {temp_status}")
+
+# %%

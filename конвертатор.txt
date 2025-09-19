@@ -1,0 +1,5 @@
+jupyter nbconvert --to notebook ***.py --output ***.ipynb
+
+ЦЕЙ	
+cd C:\Users\LS\365
+jupytext --to notebook ***.py
